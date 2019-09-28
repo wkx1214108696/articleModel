@@ -1,3 +1,3 @@
-**小程序端**：`npm rundev:weapp`
+**小程序端**：`npm run dev:weapp`
 
-**H5端**:`npm rundev:h5`
+**H5端**:`npm run dev:h5`
